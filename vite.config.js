@@ -8,6 +8,6 @@ tailwindcss(),
     react(),
       
 ],
-  base: "/NeferPitou702",
+  base: '/react/',
 
 })
